@@ -1,0 +1,15 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IntelliJ IDEA project files (if using IntelliJ)
+.idea/
+*.iml
+
+# Ignore Eclipse project files (if using Eclipse)
+*.project
+*.classpath
+*.settings/
+
+# Optional: ignore logs and temp files
+*.log
+*.tmp
